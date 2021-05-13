@@ -1,0 +1,6 @@
+ipynb/.ipynb_checkpoints/
+data/.ipynb_checkpoints/
+data/model/*
+data/*.csv
+data/result/*
+
